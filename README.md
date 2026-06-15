@@ -1,4 +1,4 @@
-# 🇧🇷 Dashboard Comercial de Vendas | Power BI + Python
+#Dashboard Comercial de Vendas | Power BI + Python
 
 ## Sobre o Projeto
 
@@ -35,7 +35,7 @@ Este projeto foi desenvolvido como um case para em análise de dados, tratamento
 
 ---
 
-# 🇺🇸 Sales Performance Dashboard | Power BI + Python
+#Sales Performance Dashboard | Power BI + Python
 
 ## About the Project
 
