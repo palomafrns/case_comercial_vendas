@@ -1,8 +1,7 @@
-#Dashboard Comercial de Vendas | Power BI + Python
 
 ## Sobre o Projeto
 
-Este projeto foi desenvolvido como um case para em análise de dados, tratamento de dados, modelagem dimensional e desenvolvimento de dashboards executivos utilizando Power BI e Python.
+Este projeto foi desenvolvido como um case para  análise de dados, tratamento de dados, modelagem dimensional e desenvolvimento de dashboards executivos utilizando Power BI e Python.
 
 ## Objetivos de Negócio
 
